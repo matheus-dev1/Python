@@ -1,0 +1,308 @@
+Nome: 
+
+Data: 
+
+Periodo: 
+
+Quiz sobre as Capitais dos Estados Unidos - Prova 22
+
+1. Qual e a Capital de Connecticut?
+   A. Lincoln
+   B. Annapolis
+   C. Dover
+   D. Hartford
+
+2. Qual e a Capital de Mississippi?
+   A. Jackson
+   B. Montpelier
+   C. Montgomery
+   D. JeffersonCity
+
+3. Qual e a Capital de RhodeIsland?
+   A. Honolulu
+   B. Providence
+   C. LittleRock
+   D. Madison
+
+4. Qual e a Capital de Havaí?
+   A. SaintPaul
+   B. Honolulu
+   C. Dover
+   D. Albany
+
+5. Qual e a Capital de CarolinadoSul?
+   A. Hartford
+   B. JeffersonCity
+   C. Colúmbia
+   D. Providence
+
+6. Qual e a Capital de Flórida?
+   A. Bismarck
+   B. Columbus
+   C. Atlanta
+   D. Tallahassee
+
+7. Qual e a Capital de Luisiana?
+   A. Cheyenne
+   B.  Trenton
+   C. LittleRock
+   D. BatonRouge
+
+8. Qual e a Capital de Pensilvânia?
+   A. Nashville
+   B. Indianápolis
+   C. Harrisburg
+   D. DesMoines
+
+9. Qual e a Capital de DakotadoSul?
+   A. Boston
+   B. Bismarck
+   C. Colúmbia
+   D. Pierre
+
+10. Qual e a Capital de Indiana?
+   A. Cheyenne
+   B. SaintPaul
+   C. Indianápolis
+   D. Denver
+
+11. Qual e a Capital de Wyoming?
+   A. Montgomery
+   B. Pierre
+   C. Cheyenne
+   D. Jackson
+
+12. Qual e a Capital de Michigan?
+   A. Lansing
+   B. Phoenix
+   C. Topeka
+   D. Boise
+
+13. Qual e a Capital de DakotadoNorte?
+   A. CarsonCity
+   B. Boise
+   C. Bismarck
+   D. Harrisburg
+
+14. Qual e a Capital de Utah?
+   A. Phoenix
+   B. Nashville
+   C. SaltLakeCity
+   D. Lincoln
+
+15. Qual e a Capital de Califórnia?
+   A. Providence
+   B. OklahomaCity
+   C. SantaFé
+   D. Sacramento
+
+16. Qual e a Capital de Wisconsin?
+   A. Madison
+   B. Lincoln
+   C. Topeka
+   D. Hartford
+
+17. Qual e a Capital de Tennessee?
+   A. Providence
+   B. Lincoln
+   C. Nashville
+   D. Montpelier
+
+18. Qual e a Capital de Arkansas?
+   A. Montgomery
+   B. LittleRock
+   C. Colúmbia
+   D. Montpelier
+
+19. Qual e a Capital de Illinois?
+   A. DesMoines
+   B. Pierre
+   C. Colúmbia
+   D. Springfield
+
+20. Qual e a Capital de Missouri?
+   A. Dover
+   B. JeffersonCity
+   C. Frankfort
+   D. Indianápolis
+
+21. Qual e a Capital de Oklahoma?
+   A. Columbus
+   B. Indianápolis
+   C. OklahomaCity
+   D. Albany
+
+22. Qual e a Capital de NovaIorque?
+   A. Harrisburg
+   B. Albany
+   C. Topeka
+   D. Atlanta
+
+23. Qual e a Capital de NovoMéxico?
+   A. SantaFé
+   B. Harrisburg
+   C. JeffersonCity
+   D. SaintPaul
+
+24. Qual e a Capital de Alasca?
+   A. SantaFé
+   B. LittleRock
+   C. Concord
+   D. Juneau
+
+25. Qual e a Capital de Texas?
+   A. Concord
+   B. LittleRock
+   C. Phoenix
+   D. Austin
+
+26. Qual e a Capital de Oregon?
+   A. Salem
+   B. Charleston
+   C. Bismarck
+   D. Tallahassee
+
+27. Qual e a Capital de Minnesota?
+   A. Albany
+   B. SaintPaul
+   C. Lincoln
+   D. OklahomaCity
+
+28. Qual e a Capital de Montana?
+   A. Columbus
+   B. JeffersonCity
+   C. Helena
+   D.  Trenton
+
+29. Qual e a Capital de Nevada?
+   A. Honolulu
+   B. Boise
+   C. BatonRouge
+   D. CarsonCity
+
+30. Qual e a Capital de NovaHampshire?
+   A. Concord
+   B. OklahomaCity
+   C. Lansing
+   D. SaltLakeCity
+
+31. Qual e a Capital de Geórgia?
+   A. Nashville
+   B. SantaFé
+   C. Atlanta
+   D. Concord
+
+32. Qual e a Capital de Maine?
+   A. Providence
+   B. Augusta
+   C. Tallahassee
+   D. Jackson
+
+33. Qual e a Capital de CarolinadoNorte?
+   A. Annapolis
+   B. Raleigh
+   C. Denver
+   D. Colúmbia
+
+34. Qual e a Capital de Nebraska?
+   A. SaltLakeCity
+   B. Lincoln
+   C. Topeka
+   D. Boston
+
+35. Qual e a Capital de Colorado?
+   A. Austin
+   B. Jackson
+   C. Denver
+   D. Olympia
+
+36. Qual e a Capital de NovaJérsei?
+   A.  Trenton
+   B. SantaFé
+   C. BatonRouge
+   D. Nashville
+
+37. Qual e a Capital de Vermont?
+   A. Montpelier
+   B. Colúmbia
+   C. Harrisburg
+   D. Lincoln
+
+38. Qual e a Capital de Iowa?
+   A. DesMoines
+   B. Topeka
+   C. Sacramento
+   D. Dover
+
+39. Qual e a Capital de Kentucky?
+   A. SaintPaul
+   B. Salem
+   C. Pierre
+   D. Frankfort
+
+40. Qual e a Capital de Maryland?
+   A. Columbus
+   B. Annapolis
+   C. Topeka
+   D. Harrisburg
+
+41. Qual e a Capital de Idaho?
+   A. Boise
+   B. Dover
+   C. Harrisburg
+   D. Richmond
+
+42. Qual e a Capital de Virgínia?
+   A. Olympia
+   B. Cheyenne
+   C. Richmond
+   D. Providence
+
+43. Qual e a Capital de Ohio?
+   A. Columbus
+   B. Providence
+   C. Nashville
+   D. Topeka
+
+44. Qual e a Capital de Arizona?
+   A. Phoenix
+   B. Denver
+   C. Albany
+   D. Juneau
+
+45. Qual e a Capital de VirgíniaOcidental?
+   A. Charleston
+   B. Madison
+   C. SaltLakeCity
+   D. BatonRouge
+
+46. Qual e a Capital de Massachusetts?
+   A. Madison
+   B. Phoenix
+   C. Jackson
+   D. Boston
+
+47. Qual e a Capital de Alabama?
+   A. Tallahassee
+   B. Boston
+   C. Montgomery
+   D. SaintPaul
+
+48. Qual e a Capital de Delaware?
+   A. Dover
+   B. SaintPaul
+   C. OklahomaCity
+   D. Topeka
+
+49. Qual e a Capital de Kansas?
+   A. Topeka
+   B. SaltLakeCity
+   C. Pierre
+   D. Nashville
+
+50. Qual e a Capital de Washington?
+   A. Juneau
+   B. SaltLakeCity
+   C. Phoenix
+   D. Olympia
+

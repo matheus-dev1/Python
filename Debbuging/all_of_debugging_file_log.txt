@@ -1,0 +1,9 @@
+ 2020-08-12 16:24:43,194 - DEBUG - Start of Fatorial Debugging!
+ 2020-08-12 16:24:43,194 - DEBUG - Start of Fatorial: 6
+ 2020-08-12 16:24:43,195 - DEBUG - Fatorial: 1 = 6!
+ 2020-08-12 16:24:43,195 - DEBUG - Fatorial: 2 = 12!
+ 2020-08-12 16:24:43,195 - DEBUG - Fatorial: 3 = 36!
+ 2020-08-12 16:24:43,195 - DEBUG - Fatorial: 4 = 144!
+ 2020-08-12 16:24:43,195 - DEBUG - Fatorial: 5 = 720!
+ 2020-08-12 16:24:43,195 - DEBUG - Final Valor: 720
+ 2020-08-12 16:24:43,196 - DEBUG - End of Fatorial Debugging!

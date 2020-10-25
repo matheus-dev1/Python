@@ -1,0 +1,39 @@
+#! python3
+
+#urls
+
+#O progrma deve receber um texto que contenha algumas urls, atraves do noss Ctrl-C e retonar pra nos apenas os links.
+
+import pyperclip, re, pprint
+
+text_full = str(pyperclip.paste())
+
+url_search = re.compile(r'''
+(https://|http://)              #Https ou Http
+(www.)                          #www.
+([a-zA-Z-0-9\.\-\/]+)           #Letras que compoe o nome do site.
+(.com)                          #.com
+(\.[a-zA-z]{2,4})?              #o final que pode ser varias letras entre 2 ou 3 ou 4 caracteres e um poonto antes das letras
+''', re.VERBOSE)
+
+urls = url_search.findall(text_full)
+
+values = []
+
+for indice in range(len(urls)):
+    values.append(list(urls[indice]))
+
+pprint.pprint(values)
+print()
+value_uni = ''
+
+#for indice in range(len(values)):
+for indice in range(len(values)):
+    value_uni = value_uni + '\n' + str(''.join(values[indice]))
+    
+if values == []:
+    print('Nenhum valor encontrado! Nada foi passado para o sue CtrlV')
+else:
+    pyperclip.copy(value_uni)
+    print('valor encontrados e copiados para o seu Ctrl-V: ', end ='')
+    print(value_uni)

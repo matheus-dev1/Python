@@ -1,0 +1,35 @@
+from yaml import load, dump
+from yaml import Loader, Dumper
+import json
+
+fname = input('first name')
+lname = input('last name')
+age = int(input('age'))
+
+def new_persona(first_name: str, last_name: str, age: int) :
+	return {
+		'first_name': first_name,
+		'last_name': last_name,
+		'age': age
+	}
+
+persona = new_persona(fname, lname, age)
+
+try:
+	with open('persona.%s.yaml' % persona['first_name'], 'w+', encoding='utf-8') as out:
+		out.write(dump(persona, Dumper = Dumper))
+
+	with open('persona.%s.json' % persona['first_name'], 'w+', encoding='utf-8') as out:
+		out.write(json.dumps(persona))
+except IOError as e:
+	print(e)
+
+print(persona['first_name'])
+
+persona_and_str = [persona, 'ferreira da o rabo']
+
+print(persona_and_str[0])
+
+t_tuple = (1, 3)
+
+print(t_tuple)
