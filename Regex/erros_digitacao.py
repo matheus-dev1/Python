@@ -2,9 +2,9 @@
 
 #erros_digitacao
 
-#O prograam deve encontrar 3 possiveis erros em um texto.
+#O programa deve encontrar 3 possiveis erros em um texto.
 #1. Varios espacos entre palavras
-#2. Repeticao seguida se palavras.
+#2. Repeticao seguida de palavras.
 #3. Apenas um ponto de exclamacao no final de casa sentenca.
 
 #Encontrar erros comuns de digitação como vários      espaços     entre palavras, repetição acidental acidental de palavras 
@@ -15,13 +15,14 @@ import pyperclip, re
 text_full = pyperclip.paste()
 
 erro_duplicada = re.compile(r'''
-\b(\w+)(?:\s+\1\b)+ #remove todas as palavras que duplicadas
+\b(\w+)(?:\s+\1\b)+ ########remove todas as palavras que duplicadas.#########
 ''', re.VERBOSE)
 
 correcao_duplicada = erro_duplicada.sub(r'\1', text_full)
 
 erro_espaco_exclamacao = re.compile(r'''
-(\w+\s|\w+\!|\w+\.\ ) #Remove espacos em branco e faz com que as palavras apenas possuam 1 ponto ou exclamacao.
+(\w+\s|\w+\!|\w+\.\ ) #######Remove espacos em branco e faz com que as########
+                      ######palavras apenas possuam 1 ponto ou exclamacao.#########
 ''', re.VERBOSE)
 
 correcao_espaco_exclamacao = erro_espaco_exclamacao.findall(correcao_duplicada)

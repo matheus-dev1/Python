@@ -64,6 +64,11 @@ def ModificarEggs(): #9
     global eggs
     eggs = 'Variavel Escopo Global 1 [Modificada]'
     print(eggs)
+
+def Recusividade(num):
+    if num == num + 10:
+        return num
+    Recusividade(num + 1)
         
 def Leave():#Leave / 0
     Start = input('Do you want to try again? [Y/N]: ')
@@ -124,6 +129,9 @@ while Start == 'y':
         #Exemplo, se nos chamamos a opcao 9, ela vai alterar a variavel 'eggs'! Na opcao 8 a variavel
         #'eggs' e chama, portanto se fizemos essa sequencia de chama de funcoes, voce vai ver a
         #alteracao da variavel atraves de uma funcao.
+    elif opc == 10:
+        Recusividade(random.randint(1, 3))
+        Start = Leave()
         
     else:#0
         Start = Leave()

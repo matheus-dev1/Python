@@ -13,7 +13,7 @@ from openpyxl.utils import column_index_from_string, get_column_letter
 #o usar os prefixos para utilizar a funcao.
 #imports importantes.
 
-workbook = openpyxl.load_workbook('Book1.xlsx')
+workbook = openpyxl.load_workbook('C:\Matheus\Study\IT\Python\Arquivos Python\Begginers Guide Openpyxl\Book1.xlsx')
 #Abrir o Workbook, ou seja, o Documento Excel com todas as planilhas que voce colocou dentro deste documento.
 #Obs: A planilha nao pode possuir senha.
 
@@ -66,6 +66,9 @@ print(Sheet1['A2'])
 #Aqui nos iremos exibir que isso e genuinamente uma celula.
 
 print(Sheet1['A1'].value)
+#Exibir o conteudo da celula 'A1' da planilha "Sheet1" do Workbook "Book1"
+
+print("Planilha Vazia: " + str(Sheet1['O1'].value))
 #Exibir o conteudo da celula 'A1' da planilha "Sheet1" do Workbook "Book1"
 
 print(type(Sheet1['A1'].value))

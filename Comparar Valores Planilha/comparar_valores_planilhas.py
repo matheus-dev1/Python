@@ -21,7 +21,7 @@ workbook = openpyxl.load_workbook('dadosExemplo.xlsx')
 mainSheet = workbook.get_sheet_by_name("Dados")
 #Abrir a Planilha de uso.
 
-print('Reading Columns and Rows - Workbook...')
+print('Reading Columns and Rows - Sheet: Dados...')
 
 #______________________________________________
 
@@ -33,7 +33,7 @@ workbook2 = openpyxl.load_workbook('dadosExemplo2.xlsx')
 mainSheet2 = workbook2.get_sheet_by_name("Dados2")
 #Abrir a Planilha de uso.
 
-print('Reading Columns and Rows - Workbook2...')
+print('Reading Columns and Rows - Sheet2: Dados2...')
 
 Sheets = [mainSheet, mainSheet2]
 
