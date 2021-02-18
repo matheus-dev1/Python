@@ -1,6 +1,6 @@
 import pyautogui, time
 
-time.sleep(5)
+time.sleep(2)
 
 f = open("text.txt", 'r')
 for word in f:

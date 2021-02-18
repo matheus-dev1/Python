@@ -1072,7 +1072,7 @@
     "explorer.compactFolders": true,
   
     // Controls whether the explorer should ask for confirmation when deleting a file via the trash.
-    "explorer.confirmDelete": true,
+    "explorer.confirmDelete": false,
   
     // Controls whether the explorer should ask for confirmation to move files and folders via drag and drop.
     "explorer.confirmDragAndDrop": true,
@@ -2653,7 +2653,7 @@
     "git.ignoreLegacyWarning": false,
   
     // Ignores the warning when there are too many changes in a repository.
-    "git.ignoreLimitWarning": false,
+    "git.ignoreLimitWarning": true,
   
     // Ignores the warning when Git is missing.
     "git.ignoreMissingGitWarning": false,
